@@ -1,8 +1,11 @@
 # collection-json
 
-A Haskell supporting library for the Collection+JSON media type.
+## This repo has moved to 
 
-In progess.
+[https://github.com/alunduil/collection-json.hs](https://github.com/alunduil/collection-json.hs)
 
 
-See <http://amundsen.com/media-types/collection/> for information about this media type.
+
+
+
+
